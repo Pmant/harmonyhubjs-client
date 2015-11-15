@@ -21,9 +21,9 @@
   },
   "dependencies": {
     "debug": "~2.2.0",
-    "node-stringprep": "git+https://github.com/erulabs/node-stringprep.git#ac59717b2d3e37d714123d9ba74cc4877f1eaf33",
-    "node-xmpp-core": "1.0.0",
-    "node-xmpp-client": "1.0.0-alpha23",
+    "ltx": "git+https://github.com/Pmant/ltx.git#69c02d43b92f5609cec852e64dbe7c2a8e4f3eff",
+    "node-xmpp-core": "4.2.0",
+    "node-xmpp-client": "2.1.0",
     "q": "~1.1.2",
     "request": "~2.48.0"
   },
